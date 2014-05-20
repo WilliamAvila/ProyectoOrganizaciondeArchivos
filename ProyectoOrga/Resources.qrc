@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Res/Database.png</file>
+        <file>Res/plm-internet-web-database.png</file>
+    </qresource>
+</RCC>
